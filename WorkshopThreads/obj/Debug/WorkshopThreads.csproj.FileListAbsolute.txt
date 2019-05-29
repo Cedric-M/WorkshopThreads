@@ -1,0 +1,7 @@
+C:\Users\ced\source\repos\WorkshopThreads\WorkshopThreads\bin\Debug\WorkshopThreads.exe.config
+C:\Users\ced\source\repos\WorkshopThreads\WorkshopThreads\bin\Debug\WorkshopThreads.exe
+C:\Users\ced\source\repos\WorkshopThreads\WorkshopThreads\bin\Debug\WorkshopThreads.pdb
+C:\Users\ced\source\repos\WorkshopThreads\WorkshopThreads\obj\Debug\WorkshopThreads.csprojAssemblyReference.cache
+C:\Users\ced\source\repos\WorkshopThreads\WorkshopThreads\obj\Debug\WorkshopThreads.csproj.CoreCompileInputs.cache
+C:\Users\ced\source\repos\WorkshopThreads\WorkshopThreads\obj\Debug\WorkshopThreads.exe
+C:\Users\ced\source\repos\WorkshopThreads\WorkshopThreads\obj\Debug\WorkshopThreads.pdb
