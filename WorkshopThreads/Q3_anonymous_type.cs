@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WorkshopThreads
 {
-    class Q3
+    class Q3_anonymous_type
     {
         static void Main(string[] args)
         {

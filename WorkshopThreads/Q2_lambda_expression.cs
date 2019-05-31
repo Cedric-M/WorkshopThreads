@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WorkshopThreads
 {
-    class Q2
+    class Q2_lambda_expression
     {
         static void Main(string[] args)
         {

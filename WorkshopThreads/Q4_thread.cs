@@ -6,11 +6,9 @@ using System.Threading;
 
 namespace WorkshopThreads
 {
-
-
     // Simple threading scenario:  Start a static method running
     // on a second thread.
-    public class Q4
+    public class Q4_thread
     {
         // The ThreadProc method is called when the thread starts.
         // It loops ten times, writing to the console and yielding 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WorkshopThreads
 {
-    class Q1
+    class Q1_delegate
     {
         delegate int DELG(int v1, int v2);
         static void Main(string[] args)
